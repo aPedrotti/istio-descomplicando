@@ -1,8 +1,8 @@
 
 
-Configuring environment
+# From Vagrantfile
 
-### Docker
-`curl -fsSL https://get.docker.com |bash`
+Reference
 
-### Kubernetes
+https://github.com/mmumshad/kubernetes-the-hard-way/
+
